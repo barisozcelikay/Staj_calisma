@@ -1,0 +1,28 @@
+li{
+    
+    list-style-type: none;
+    position: relative;
+    
+    
+}
+li .button{
+    background-color:steelblue ;
+    width: 220px;
+    color: white;
+    font: normal 15px tahoma;
+    height: 50px;
+    margin: 12px auto;
+    text-transform: capitalize;
+    
+}
+
+li .button:hover{ 
+    background: #ffffff ; 
+    color:steelblue ; 
+    font: bold 14px tahoma;
+}
+
+
+
+
+

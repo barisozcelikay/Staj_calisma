@@ -1,0 +1,16 @@
+
+.middle_body
+{
+    width: 200px;
+    height: auto;
+    background-color: white;
+}
+li{
+    float: left; 
+}
+.circle
+{
+    margin-left: 100px;
+    padding: 50px;
+    
+}
